@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "DaniyalFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "0.1.1"
   spec.summary      = "A short summary of what this library does."
   spec.homepage     = "https://bitbucket.org/yourusername/yourrepository"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
