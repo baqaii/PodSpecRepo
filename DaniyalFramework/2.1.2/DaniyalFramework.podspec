@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "Your Name" => "your_email@example.com" }
   spec.source       = { :http => "https://github.com/baqaii/PodRepo/raw/6daf50ee6c58355250c40437b4dcf3e277cd69b4/DaniyalFramework.xcframework.zip" }
-  spec.platform     = :ios, "10.0"
+  spec.platform     = :ios, "14.0"
   spec.vendored_frameworks = "DaniyalFramework.xcframework"
   spec.swift_version = "5.0"
 end
